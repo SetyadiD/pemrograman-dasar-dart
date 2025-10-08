@@ -1,4 +1,3 @@
-/*
 ====================================================
 📘 Belajar Dart: Program Hello World
 ====================================================
@@ -25,7 +24,6 @@ menggunakan perintah `print()`.
 Hello dunia: 42!
 
 ====================================================
-*/
 
 /// Fungsi utama yang dijalankan pertama kali oleh program Dart.
 void main(List<String> arguments) {
